@@ -117,7 +117,3 @@ src/
 ```
 
 Local trial scripts, virtual environments, caches, and secrets are ignored so the GitHub repo stays focused on the working app.
-
-## Security
-
-Do not commit `.env` or real Azure keys. This repo includes `.env.example` for configuration names only. If a key was ever hardcoded while experimenting, rotate it before publishing the project.
