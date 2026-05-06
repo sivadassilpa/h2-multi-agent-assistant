@@ -29,7 +29,7 @@ Thumbs.db
 # Jupyter scratch files
 .ipynb_checkpoints/
 
-# Local experiments that are useful while learning but noisy in a portfolio repo
+# Local experiments and scratch files
 github.py
 src/multiAgents/
 src/trials/

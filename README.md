@@ -115,5 +115,3 @@ src/
   findProjects.py        Semantic Kernel project search plugin
   config.py              Environment variable helpers
 ```
-
-Local trial scripts, virtual environments, caches, and secrets are ignored so the GitHub repo stays focused on the working app.
